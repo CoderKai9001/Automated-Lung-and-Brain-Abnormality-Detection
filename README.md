@@ -1,9 +1,9 @@
 # Automated Lung and Brain Abnormality detection
 
-## Model:
+## ☑️ Model:
 Trained as Convolutional Neural Networks using PyTorch
 
-## Classes detected by the model:
+## ☑️ Classes detected by the model:
 - Healthy Lungs
 - Pneumonia
 - Empyema
@@ -18,12 +18,18 @@ Trained as Convolutional Neural Networks using PyTorch
 - Meningioma
 - Pituitary
 
-## How to Run?
+## ☑️ How to Run?
 1. clone the repository
 2. run app.py
 
-## Dependencies:
+## ☑️ Dependencies:
 1. PyTorch (for CNN model training and testing)
 2. PIL (for image manipulation)
 3. Flask (for web app)
 
+## ☑️ Test images to test out the model!!
+There are some images in the testdata folder.
+
+Feel free to test these out on the model 😊 
+
+enjoyy 👍
